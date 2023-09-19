@@ -3,6 +3,7 @@
     padding: 0%;
     box-sizing: border-box;
     font-family: sans-serif;
+    font-weight: bold;
 }
 header{
     background-color: white;
@@ -37,7 +38,7 @@ p{
 .add-button{
     line-height: 30px;
     text-align: center;
-    width: 60px;
+    width: 70px;
     height: 30px;
     border-radius: 5px;
     background-color:#47ADF1;
@@ -50,7 +51,7 @@ p{
 .add-button2{
     line-height: 30px;
     text-align: center;
-    width: 76px;
+    width: 85px;
     height: 30px;
     border: 1px solid;
     border-radius: 5px;
@@ -103,7 +104,7 @@ hr{
 .pulsanti{
     line-height: 30px;
     text-align: center;
-    width: 70px;
+    width: 80px;
     height: 30px;
     border-radius: 25px;
     font-size: 12px;
