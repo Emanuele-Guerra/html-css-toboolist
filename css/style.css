@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(111, 255, 0);
+    height: 80px;
+}
+.scritta-logo{
+    font-family: sans-serif;
+    font-size: 40px;
+    
+}
+.logo{
+    margin: 10px;
+}
+.container{
+    width: 800px;
+    margin: auto;
+    border: 1px solid black;
+    margin-top: 50px;
+}
