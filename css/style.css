@@ -26,6 +26,7 @@ header{
     margin: auto;
     margin-top: 50px;
     border-radius: 8px;
+    height: 1000px;
 }
 .container2{
     margin-left: 65px;
@@ -100,6 +101,7 @@ hr{
     height: 5px;
     color: #F6F8F9 ;
     background-color: #F6F8F9 ;
+    border: 3px solid  #F6F8F9;
 }
 .pulsanti{
     line-height: 30px;
